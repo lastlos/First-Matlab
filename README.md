@@ -1,4 +1,4 @@
-# First Matlab Project — Iris Veri Seti ile K-En Yakın Komşu Sınıflandırması
+# Iris Veri Seti ile K-En Yakın Komşu Sınıflandırması
 
 Bu proje, MATLAB'ın yerleşik `fisheriris` veri seti üzerinde K-En Yakın Komşu (KNN) algoritmasını **sıfırdan** (Statistics Toolbox kullanmadan) uygulayan bir makine öğrenmesi portfolyo çalışmasıdır. Amaç; veri ön işleme, el yapımı KNN ve görselleştirme adımlarını tek bir tutarlı proje içinde sunmaktır.
 
